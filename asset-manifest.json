@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/static/css/main.409b3a29.css",
+    "main.js": "/static/js/main.c877879b.js",
+    "static/media/Gilroy-MediumItalic.woff2": "/static/media/Gilroy-MediumItalic.5388ac8952cd823037df.woff2",
+    "static/media/Gilroy-BoldItalic.woff2": "/static/media/Gilroy-BoldItalic.67063e110d7c16a87ecd.woff2",
+    "static/media/Gilroy-BlackItalic.woff2": "/static/media/Gilroy-BlackItalic.eba3667d9c75473b62c6.woff2",
+    "static/media/Gilroy-LightItalic.woff2": "/static/media/Gilroy-LightItalic.912dab1fb581ba40cdf0.woff2",
+    "static/media/Gilroy-UltraLightItalic.woff2": "/static/media/Gilroy-UltraLightItalic.fc7ea1e7a10757cbce8c.woff2",
+    "static/media/Gilroy-HeavyItalic.woff2": "/static/media/Gilroy-HeavyItalic.52ab95aa5575e4521e0d.woff2",
+    "static/media/Gilroy-RegularItalic.woff2": "/static/media/Gilroy-RegularItalic.475fdc669a0b65bf8473.woff2",
+    "static/media/Gilroy-ExtraboldItalic.woff2": "/static/media/Gilroy-ExtraboldItalic.82076f7af580dc4a76ab.woff2",
+    "static/media/Gilroy-ThinItalic.woff2": "/static/media/Gilroy-ThinItalic.c9ce1d90bffa27840d27.woff2",
+    "static/media/Gilroy-SemiboldItalic.woff2": "/static/media/Gilroy-SemiboldItalic.2596d6429ed373441fc0.woff2",
+    "static/media/Gilroy-Medium.woff2": "/static/media/Gilroy-Medium.ed5af0ce5a2497c42ec9.woff2",
+    "static/media/Gilroy-Bold.woff2": "/static/media/Gilroy-Bold.0d3e31ab451f86b77222.woff2",
+    "static/media/Gilroy-UltraLight.woff2": "/static/media/Gilroy-UltraLight.eb16b5ca612c238a45f2.woff2",
+    "static/media/Gilroy-Black.woff2": "/static/media/Gilroy-Black.8c45d057e2c2d6db97cf.woff2",
+    "static/media/Gilroy-Semibold.woff2": "/static/media/Gilroy-Semibold.ac35cb1c1bb1481621f2.woff2",
+    "static/media/Gilroy-Light.woff2": "/static/media/Gilroy-Light.645537d53e954fb82efe.woff2",
+    "static/media/Gilroy-Thin.woff2": "/static/media/Gilroy-Thin.038d9d0f00339c7a263a.woff2",
+    "static/media/Gilroy-Heavy.woff2": "/static/media/Gilroy-Heavy.b7850fe6b0f51af2ec60.woff2",
+    "static/media/Gilroy-Extrabold.woff2": "/static/media/Gilroy-Extrabold.a73854b33eef3d926e56.woff2",
+    "static/media/Gilroy-Regular.woff2": "/static/media/Gilroy-Regular.adf30b8d3fc8f8e76704.woff2",
+    "static/media/in-card-bg.jpg": "/static/media/in-card-bg.c65ebdb5b1746c975e9f.jpg",
+    "index.html": "/index.html",
+    "main.409b3a29.css.map": "/static/css/main.409b3a29.css.map",
+    "main.c877879b.js.map": "/static/js/main.c877879b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.409b3a29.css",
+    "static/js/main.c877879b.js"
+  ]
+}
